@@ -1,29 +1,30 @@
-# Hey there! 👋
+# Hi, I'm Sovandeth 👋
 
-I'm Sovandeth, a AI engineering based in Cambodia.
+I'm an AI Engineer based in Cambodia, passionate about building practical AI systems, especially those that understand both Khmer and English.
 
-I build AI systems that understand Khmer as well as English.
+I enjoy solving messy data problems and turning ideas into working applications. My work spans the AI pipeline, from document parsing and chunking to retrieval, evaluation, backend development, and deployment.
 
-If a messy data problem shows up, chances are I'll dig into it and ship a fix.
+### 💻 Tech Stack
+Python · Docker · Qdrant · FastAPI · Next.js · Tailwind CSS
 
-My main stack is Python, Docker, Qdrant, Next.js, and Tailwind. I work across the whole pipeline: parsing, chunking, retrieval, evals, and the app on top.
+### 🚀 Experience & Projects
 
-Right now I'm an AI Engineering intern at the **Tossana Technology Co., Ltd**, building a multilingual chatbot.
+Currently, I'm an **AI Engineering Intern at Tossana Technology Co., Ltd.**, working on multilingual chatbot development.
 
-I'm in the final year of my degree, and I've worked on a few projects I'm proud of, but my favorite is the **GDCE Customs Chatbot**.
+Some projects I've worked on:
 
-Other things I've built:
-- **KAI_AI**: a workplace RAG assistant, where I tune chunking, parsing, and retrieval against real eval sets
-- **Tunsay**: a Khmer-language K-12 math tutoring chatbot
-- **Live Stock Monitoring**: a system that tracks and count animals like sheep or pig..., etc.
-- **Inventory Management**: an AI powered system that support fast tracking and stocking
+- **GDCE Customs Chatbot** – A RAG-based chatbot for customs information and regulations.
+- **KAI_AI** – A workplace RAG assistant focused on document processing and retrieval quality.
+- **Tunsay** – A Khmer-language K–12 mathematics tutoring chatbot.
+- **Live Stock Monitoring** – An AI-powered system for detecting and counting livestock.
+- **Inventory Management** – An AI-powered system for tracking inventory and stock levels.
 
-<!-- If you want to see how I do it, my portfolio and CV are available here: [your-portfolio-link] -->
+I'm currently in my final year of Data Science and Engineering and enjoy learning through hands-on projects and real-world challenges.
 
-**Fun Facts:**
-- I've competed in a hackathon (Turing Cycle 10 by Techo Startup Center)
-- I care a lot about making AI work properly for Khmer
-- I like debugging retrieval problems more than I should
-- **Interests:** AI engineering, data science, Cambodian tech and startups
+### 🌱 Beyond Coding
+- Competed in **Turing Cycle 10** by Techo Startup Center.
+- Interested in AI Engineering, Data Science, and Cambodian tech startups.
+- Particularly interested in making AI more useful for Khmer speakers.
 
-📫 Reach me: hoursovandeth@gmail.com
+### 📫 Get in Touch
+[hoursovandeth@gmail.com](mailto:hoursovandeth@gmail.com)
