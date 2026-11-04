@@ -15,7 +15,7 @@ Some projects I've worked on:
 
 - **GDCE Customs Chatbot** – A RAG-based chatbot for customs information and regulations.
 - **KAI_AI** – A workplace RAG assistant focused on document processing and retrieval quality.
-- **Tunsay** – A Khmer-language K–12 mathematics tutoring chatbot.
+- **reanmore** – A Khmer/English-language for K1-6 mathematics and sciences tutoring chatbot.
 - **Live Stock Monitoring** – An AI-powered system for detecting and counting livestock.
 - **Inventory Management** – An AI-powered system for tracking inventory and stock levels.
 
