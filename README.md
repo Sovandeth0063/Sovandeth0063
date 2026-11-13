@@ -5,7 +5,7 @@ I'm an AI Engineer based in Cambodia, passionate about building practical AI sys
 I enjoy solving messy data problems and turning ideas into working applications. My work spans the AI pipeline, from document parsing and chunking to retrieval, evaluation, backend development, and deployment.
 
 ### 💻 Tech Stack
-Python · Docker · Qdrant · FastAPI · Next.js · Tailwind CSS
+Python · Docker · Qdrant · FastAPI · Pytorch 
 
 ### 🚀 Experience & Projects
 
@@ -13,18 +13,17 @@ Currently, I'm an **AI Engineering Intern at Tossana Technology Co., Ltd.**, wor
 
 Some projects I've worked on:
 
-- **GDCE Customs Chatbot** – A RAG-based chatbot for customs information and regulations.
+- **GDCE Customs Chatbot** – An Agentic chatbot for customs information and regulations supported.
 - **KAI_AI** – A workplace RAG assistant focused on document processing and retrieval quality.
-- **reanmore** – A Khmer/English-language for K1-6 mathematics and sciences tutoring chatbot.
+- **reanmore** – A Khmer/English-language live tutoring agent for grade 1-6 mathematics and sciences.
 - **Live Stock Monitoring** – An AI-powered system for detecting and counting livestock.
 - **Inventory Management** – An AI-powered system for tracking inventory and stock levels.
 
 I'm currently in my final year of Data Science and Engineering and enjoy learning through hands-on projects and real-world challenges.
 
 ### 🌱 Beyond Coding
-- Competed in **Turing Cycle 10** by Techo Startup Center.
-- Interested in AI Engineering, Data Science, and Cambodian tech startups.
-- Particularly interested in making AI more useful for Khmer speakers.
+- Competed in **University Venture Capital (UVC) 2026 program** by Khmer Enterprise.
+- Competed in **AI in Motion** by first wave.
 
 ### 📫 Get in Touch
 [hoursovandeth@gmail.com](mailto:hoursovandeth@gmail.com)
